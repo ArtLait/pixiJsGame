@@ -1,0 +1,18 @@
+{
+  "frames": {
+    "ruykRow1": {
+      "frame": {"x": 0, "y": 0, "w": 48, "h": 64},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 192, "h": 256},
+      "sourceSize": {"w": 192, "h": 256}
+    },
+    "ruykRow2": {
+      "frame": {"x": 48, "y": 0, "w": 48, "h": 64},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 192, "h": 256},
+      "sourceSize": {"w": 192, "h": 256}
+    }
+  }
+}
